@@ -1,0 +1,4 @@
+Blue Player: WASD for mowement, SPACE for bonking
+Red Player: ARROWS for mowement, RSHIFTfor bonking
+Green Player: 8456 for mowement, NUM ENTER for bonking
+Yellow Player: GAMEPAD DPAD for mowement, RTRIGGER for bonking
